@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Dribble',
-      url: 'https://github.com/reicraftscode',
+      url: 'https://dribbble.com/reicraftscodes/shots',
     },
     // {
     //   name: 'Linkedin',
