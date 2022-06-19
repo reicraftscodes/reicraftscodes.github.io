@@ -10,8 +10,8 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Laura',
   location: 'South Wales, United Kingdom',
-  email: 'reicraftscode@gmail.com',
-  github: 'https://github.com/reicraftscode',
+  email: 'reicraftscodes@gmail.com',
+  github: 'https://github.com/reicraftscodes',
   twitterHandle: '@reicraftscode',
   socialMedia: [
     {
