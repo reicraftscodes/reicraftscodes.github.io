@@ -18,10 +18,10 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/reicraftscodes',
     },
-    // {
-    //   name: 'Behance',
-    //   url: 'https://github.com/reicraftscode',
-    // },
+    {
+      name: 'Dribble',
+      url: 'https://github.com/reicraftscode',
+    },
     // {
     //   name: 'Linkedin',
     //   url: 'https://www.linkedin.com/in/aljan-porquillo/',
@@ -34,10 +34,10 @@ module.exports = {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/strongforce1',
     // },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/',
+    // },
   ],
 
   navLinks: [
