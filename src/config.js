@@ -16,7 +16,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/reicraftscode',
+      url: 'https://github.com/reicraftscodes',
     },
     // {
     //   name: 'Behance',
