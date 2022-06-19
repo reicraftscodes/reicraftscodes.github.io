@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeaaanius.github.io/sitemap/sitemap-index.xml
+Host: https://jeaaanius.github.io
