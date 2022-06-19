@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/forceporquillo/forceporquillo.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/reicraftscodes/reicraftscodes.github.io/blob/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version
@@ -9,7 +9,7 @@ Portfolio template is a forked from <a href="https://github.com/chandrikadeb7/ch
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/forceporquillo/forceporquillo.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/reicraftscodes/reicraftscodes.github.io/blob/master/src/images/demo.png" />
 </div>
 
 ### TL;DR
