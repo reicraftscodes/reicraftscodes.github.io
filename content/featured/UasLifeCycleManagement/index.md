@@ -3,6 +3,7 @@ date: '7'
 title: 'UAS Lifecycle Management'
 cover: 'Uas.png'
 tech:
+  - Microservices
   - Spring Boot 
   - React.js
   - Redux
@@ -13,6 +14,7 @@ tech:
   - Junit 
   - Mockito
   - Cypress
+  - API Separation
   - Dissertation project
 showInProjects: true
 ---
