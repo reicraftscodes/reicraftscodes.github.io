@@ -21,7 +21,7 @@ module.exports = {
     {
       name: 'Dribble',
       url: 'https://dribbble.com/reicraftscodes/shots',
-    },
+    }
     // {
     //   name: 'Linkedin',
     //   url: 'https://www.linkedin.com/in/aljan-porquillo/',
