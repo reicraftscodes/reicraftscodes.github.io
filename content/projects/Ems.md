@@ -1,13 +1,13 @@
 ---
 date: '2021-10-10'
-title: 'Employee Management System'
-github: 'https://github.com/reicraftscode'
+title: 'ToDo Application'
+github: 'https://github.com/reicraftscodes/TodoApp'
 external: ''
 playstore: ''
 tech:
   - Spring Boot 
   - React
-  - Gson
+  - Jenkins CI/CD
   - Flyway Database
   - Integration Testing
   - Unit Testing Testing
@@ -15,4 +15,4 @@ company: ''
 showInProjects: true
 ---
 
-🧑‍💼 An Employee Management System
+🧑‍💼 Simple ToDo list

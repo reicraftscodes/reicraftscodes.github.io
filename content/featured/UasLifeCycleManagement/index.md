@@ -10,11 +10,15 @@ tech:
   - MVVM
   - Retrofit
   - OkHttp
+  - CheckStyle
   - Junit 
   - Mockito
   - Cypress
   - API Separation
   - Microservices
+  - Heroku
+  - LoadMill
+  - Postman API Automated Testing
   - Dissertation project
 showInProjects: true
 ---

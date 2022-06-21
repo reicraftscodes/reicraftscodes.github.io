@@ -3,12 +3,12 @@ module.exports = {
   siteDescription:
     'May is a Software Engineering Graduate who loves to create innovative apps.',
   siteKeywords:
-    'Mat, software engineer, java, spring boot, freelance, rest apis',
+    'May, software engineer, java, spring boot, freelance, rest apis',
   siteUrl: 'https://jeaaanius.github.io/',
   siteLanguage: 'en_UK',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Laura',
+  name: 'May',
   location: 'South Wales, United Kingdom',
   email: 'reicraftscodes@gmail.com',
   github: 'https://github.com/reicraftscodes',

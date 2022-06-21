@@ -2,7 +2,6 @@
 date: '3'
 title: 'Charity Giving'
 cover: 'charity.jpg'
-github: 'https://github.com/reicraftscode'
 external: ''
 playstore: ''
 tech:

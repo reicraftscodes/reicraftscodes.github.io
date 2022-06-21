@@ -12,7 +12,7 @@ url: 'https://www.sncmsuk.com/'
 - Followed **eXtreme programming** process with **CI/CD** integration using Gitlab CI/CD and **Gitlab Issue Board** to help keep track of the development progress.
 - **Developed test cases** and performed end-to-end testing using Cypress.
 - Responsible for performing **API stress testing** using Loadmill. 
-- Came up with the architecture that included the UAS Inventory Management System and was responsible for planning **Flux architecture** for the UAS Lifecycle management application.
+- Came up with the architecture that included the UAS Inventory Management System and was responsible for planning **Flux architecture** for the web UAS Lifecycle management application.
 - Responsible for creating a login and user authentication with **JSON web tokens** in Spring Boot and developed a login feature for frontend using React JavaScript and MaterialUI.
 - Responsible for creating an overall **bespoke monitoring inventory management system** throughout web applications with entire CRUD operations.  The monitoring system consists of cost breakdowns to analyse the financial impact and analysis of aircraft parts status.
 - Responsible for creating an **automated CI/CD pipeline** in **Gitlab CI/CD** using the Docker images for web applications. Also, I helped a team member set up a CI/CD pipeline for API backend and android.
