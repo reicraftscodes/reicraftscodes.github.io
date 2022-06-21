@@ -2,7 +2,7 @@
 date: '5'
 title: 'ActiveBee'
 cover: 'activeBee.png'
-github: 'https://github.com/reicraftscode/web-chat-application'
+# github: 'https://github.com/reicraftscode/web-chat-application'
 
 tech:
   - MERN
