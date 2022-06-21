@@ -1,7 +1,7 @@
 ---
 date: '2021-08-21'
 title: 'Full-Stack Software Engineer'
-company: 'SNCUK '
+company: 'SNCMUK'
 range: 'January 2022 - April 2022'
 url: 'https://www.sncmsuk.com/'
 ---

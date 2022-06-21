@@ -1,6 +1,7 @@
 ---
 date: '7'
-title: 'UAS Lifecycle Management'
+title: 'SNCMSUK'
+github: 'https://github.com/reicraftscode/web-chat-application'
 cover: 'Uas.png'
 tech:
   - Spring Boot 
