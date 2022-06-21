@@ -1,7 +1,6 @@
 ---
 date: '7'
 title: 'SNCMSUK'
-github: 'https://github.com/reicraftscode/web-chat-application'
 cover: 'Uas.png'
 tech:
   - Spring Boot 
