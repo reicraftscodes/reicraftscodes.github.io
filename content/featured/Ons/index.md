@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'ONS LMS Application'
-cover: 'ons.jpg'
+cover: 'Ons.jpg'
 github: ''
 external: ''
 playstore: ''
