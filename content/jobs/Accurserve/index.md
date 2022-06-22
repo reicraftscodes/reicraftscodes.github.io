@@ -1,6 +1,6 @@
 ---
 date: '2020-12-14'
-title: 'Freelance WordPress Developer'
+title: 'WordPress Developer'
 company: 'ASCBIPH'
 range: 'December 2020 - April 2021'
 url: 'https://ascbiph.com/'
@@ -12,3 +12,4 @@ url: 'https://ascbiph.com/'
 - Customized WordPress themes.
 - Responsible for maintenance and updating of website.
 - Performed SEO optimisation of the website.
+- Managing hosting web /server.
