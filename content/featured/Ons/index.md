@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'ONS LMS Application'
-cover: 'Ons.jpg'
+cover: 'ons.jpg'
 github: ''
 external: ''
 playstore: ''
@@ -13,4 +13,4 @@ tech:
   - Jenkins CI/CD
 showInProjects: true
 ---
-💡 A web skill-sharing platform for the Office of National Statistics employees. 
+💡 A web skill-sharing platform for the Office of National Statistics employees.
