@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Laurei  | Software Engineer',
+  siteTitle: 'Laurei| Software Engineer',
   siteDescription:
     'Laurei is a Software Engineering Graduate who loves to create innovative apps.',
   siteKeywords:
@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: 'en_UK',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Laurei ',
+  name: 'Laurei',
   location: 'South Wales, United Kingdom',
   email: 'reicraftscodes@gmail.com',
   github: 'https://github.com/reicraftscodes',

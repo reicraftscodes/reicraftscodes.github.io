@@ -25,7 +25,7 @@ skills:
   - LoadMill and so on..
 ---
 
-Hello! My name is Laurei. I am an incoming Software Engineering graduate from [Cardiff University](https://www.cardiff.ac.uk/). Way back from my second year, first semester, I got introduced to Spring Boot. Since then, my excitement and curiosity about building commercial web applications using Spring Boot turned into a passion.
+Hello! My name is Laurei, you can call me May. I am an incoming Software Engineering graduate from [Cardiff University](https://www.cardiff.ac.uk/). Way back from my second year, first semester, I got introduced to Spring Boot. Since then, my excitement and curiosity about building commercial web applications using Spring Boot turned into a passion.
 
 As of today, I am currently seeking a full-time Junior Full Stack Software Engineer position, preferably Java and ReactJS.  I am also pursuing my goal of learning the cloud and being a Certified AWS Developer - Associate. 
 
