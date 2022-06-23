@@ -1,14 +1,14 @@
 module.exports = {
-  siteTitle: 'May | Software Engineer',
+  siteTitle: 'Laurei  | Software Engineer',
   siteDescription:
-    'May is a Software Engineering Graduate who loves to create innovative apps.',
+    'Laurei is a Software Engineering Graduate who loves to create innovative apps.',
   siteKeywords:
-    'May, software engineer, java, spring boot, freelance, rest apis',
+    'Laurei , software engineer, java, spring boot, freelance, rest apis',
   siteUrl: 'https://jeaaanius.github.io/',
   siteLanguage: 'en_UK',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'May',
+  name: 'Laurei ',
   location: 'South Wales, United Kingdom',
   email: 'reicraftscodes@gmail.com',
   github: 'https://github.com/reicraftscodes',
