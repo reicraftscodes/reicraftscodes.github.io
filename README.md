@@ -56,7 +56,7 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    npm run serve
    ```
 
-## Gatsby Github Web Deployment
+## 🌟 Gatsby Github Web Deployment
  
  Once you are done with everything, to deploy the website make sure you are on the master branch. On the bash terminal (CTRL+ '), copy paste the following code:
 
