@@ -56,6 +56,25 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    npm run serve
    ```
 
+## Gatsby Github Web Deployment
+ 
+ Once you are done with everything, to deploy the website make sure you are on the master branch. On the bash terminal (CTRL+ '), copy paste the following code:
+
+```sh
+gatsby build && gh-pages -d public
+```
+
+On your repository, find the "settings" and go to "pages"
+
+- Once you on the pages, you will see the Github pages. From the source below, you will something like
+
+   **Source**
+   Your GitHub Pages site is currently being built from the gh-pages branch.
+
+
+- Lastly, change the branch to Branch: gh-pages and then press save button
+  
+
 ## 🎨 Color Reference
 
 | Color          | Hex                                                                |
