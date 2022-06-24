@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Laurei| Software Engineer',
+  siteTitle: 'Laurei | Software Engineer',
   siteDescription:
     'Laurei is a Software Engineering Graduate who loves to create innovative apps.',
   siteKeywords:
