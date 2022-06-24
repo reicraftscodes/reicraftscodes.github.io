@@ -4,7 +4,7 @@ module.exports = {
     'Laurei is a Software Engineering Graduate who loves to create innovative apps.',
   siteKeywords:
     'Laurei , software engineer, java, spring boot, freelance, rest apis',
-  siteUrl: 'https://jeaaanius.github.io/',
+  siteUrl: 'https://reicraftscodes.github.io/',
   siteLanguage: 'en_UK',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
