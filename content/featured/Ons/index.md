@@ -7,7 +7,7 @@ external: ''
 playstore: ''
 tech:
   - Spring Boot
-  - Thymeleaft
+  - Thymeleaf
   - VanillaJS
   - PL/SQL
   - Jenkins CI/CD
