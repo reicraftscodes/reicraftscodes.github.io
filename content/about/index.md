@@ -13,14 +13,15 @@ skills:
   - Jest
   - Jenkins
   - Node.js
+  - REST API
   - SonarQube
   - Gitlab CI/CD
   - Gradle & Maven 
   - Terraform, OpenStack
-  - Heroku
-  - RDBMS MariaDB & MongoDB
+  - Heroku, Netlify, AWS
+  - RDBMS MariaDB, MongoDB
   - Api Documentation OpenAPI Swagger
-  - Android Development (Beginner)
+  - Android Development
   - Integration, Unit, E2E Testing
   - LoadMill and so on..
 ---
